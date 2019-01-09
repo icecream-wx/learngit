@@ -29,3 +29,9 @@ git branch -d <name>
 git branch -D <name>
 #查看远程库信息
 git remote -v
+#push到远程
+git push origin <name>
+#pull到本地
+git pull
+#指定本地分支和远程分支得链接
+git branch --set-upstream-to=origin/<name> <name>
