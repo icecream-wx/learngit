@@ -27,3 +27,5 @@ git merge <name>
 git branch -d <name>
 #强行删除分支
 git branch -D <name>
+#查看远程库信息
+git remote -v
