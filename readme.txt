@@ -25,3 +25,5 @@ git checkout -b <name>
 git merge <name>
 #删除分支
 git branch -d <name>
+#强行删除分支
+git branch -D <name>
