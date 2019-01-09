@@ -1,5 +1,6 @@
 hello world
 this is my first study git!
-git hahaahahah
-git222222
-git333333
+git add "fileName"
+git status
+git commit -m"remark"
+git push origin master
