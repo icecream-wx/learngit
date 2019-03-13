@@ -48,4 +48,6 @@ git push origin <branch-name>
 #把git提交变成一条线，操作可以把本地未push的分叉提交历史整理成直线；
 git rebase
 
+# idea测试一下
+git config --global user.name
 
