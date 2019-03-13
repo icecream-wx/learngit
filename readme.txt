@@ -54,3 +54,6 @@ git config --global user.name
 #再来一次
 once again
 
+#远程来一次
+haha
+
